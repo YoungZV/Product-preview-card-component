@@ -108,6 +108,7 @@ h1 {
     color: var(--black);
     text-decoration: line-through;
     font-size: 0.75rem;
+    font-weight: 100;
 
 }
 
